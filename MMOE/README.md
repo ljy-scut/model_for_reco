@@ -4,10 +4,10 @@
 - MMOE输入到不同的expert，不共享参数，使用Gate给不同的expert不同的权重（根据softmax函数输出的权重），
   Gate的作用类似于attention，然后进行加权输入到不同的塔进行输出，不同的任务使用的不同的Gate。
 
-![Image text](https://github.com/ljy-scut/model_for_reco/tree/master/MMOE/image/model.png)
-![Image text](https://github.com/ljy-scut/model_for_reco/tree/master/MMOE/image/formula_1.png)
-![Image text](https://github.com/ljy-scut/model-for-reco/tree/master/MMOE/image/formula_2.png)
-![Image text](https://github.com/ljy-scut/model-for-reco/tree/master/MMOE/image/result.png)
+![Image text](https://github.com/ljy-scut/model_for_reco/blob/master/MMOE/image/model.png)
+![Image text](https://github.com/ljy-scut/model_for_reco/blob/master/MMOE/image/formula_1.png)
+![Image text](https://github.com/ljy-scut/model_for_reco/blob/master/MMOE/imageformula_2.png)
+![Image text](https://github.com/ljy-scut/model_for_reco/blob/master/MMOE/image)
 
 # MMOE实验
 - 数据集：Cenus-Income数据集
