@@ -6,8 +6,8 @@
 
 ![Image text](https://github.com/ljy-scut/model_for_reco/blob/master/MMOE/image/model.png)
 ![Image text](https://github.com/ljy-scut/model_for_reco/blob/master/MMOE/image/formula_1.png)
-![Image text](https://github.com/ljy-scut/model_for_reco/blob/master/MMOE/imageformula_2.png)
-![Image text](https://github.com/ljy-scut/model_for_reco/blob/master/MMOE/image)
+![Image text](https://github.com/ljy-scut/model_for_reco/blob/master/MMOE/image/formula_2.png)
+![Image text](https://github.com/ljy-scut/model_for_reco/blob/master/MMOE/image/result.png)
 
 # MMOE实验
 - 数据集：Cenus-Income数据集
